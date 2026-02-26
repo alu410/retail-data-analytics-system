@@ -13,3 +13,7 @@ venv/
 .venv/
 
 .env
+
+# Database
+data/Retail_Transaction_Dataset.csv
+data/retail.db
