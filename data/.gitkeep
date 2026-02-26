@@ -1,0 +1,2 @@
+# Place Retail_Transaction_Dataset.csv here.
+# retail.db is created by: python load_csv_to_sqlite.py

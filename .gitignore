@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# macOS files
+.DS_Store
+
+# Videos or large data
+*.mp4
+*.mov
+
+# Virtual environments
+venv/
+.venv/
+
+.env
